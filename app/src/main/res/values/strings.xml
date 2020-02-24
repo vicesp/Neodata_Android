@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Almacenes</string>
+
+    <string name="m1">La IP se actualizó correctamente</string>
+    <string name="m2">Datos de acceso incorrectos</string>
+    <string name="m3">"La información se sincronizó exitosamente"</string>
+    <string name="m4">"La información se descargó exitosamente"</string>
+    <string name="m5">¿Desea eliminar toda la información del dispositivo?</string>
+    <string name="m6">¿Desea sincronizar catálogos con el servidor?</string>
+    <string name="m7">Se borrará la información de catálogos contenida en el dispositivo</string>
+    <string name="m8">La IP se actualizó correctamente.</string>
+    <string name="m9">La IP se actualizó correctamente.</string>
+    <string name="m10">La IP se actualizó correctamente.</string>
+    <string name="m11">La IP se actualizó correctamente.</string>
+
+    <string name="NAMESPACE">http://ServAgendum.net/</string>
+    <string name="Usuario">Admin</string>
+    <string name="Pass">Admin</string>
+    <string name="title_activity_requisiciones">Requisiciones</string>
+</resources>
