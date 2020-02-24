@@ -34,8 +34,7 @@ public class MainActivity extends AppCompatActivity {
     protected SQLiteDatabase db;
     protected Cursor cursor;
     private TextView tv_version,tv_contrasena_admin;
-    private TextView n;
-    private TextView ss;
+
     //djfa
 
     @Override
