@@ -36,6 +36,7 @@ public class MainActivity extends AppCompatActivity {
     private TextView tv_version,tv_contrasena_admin;
 
     private Button newb;
+    private Button skdfj;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
