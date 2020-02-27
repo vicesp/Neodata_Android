@@ -35,7 +35,7 @@ public class MainActivity extends AppCompatActivity {
     protected Cursor cursor;
     private TextView tv_version,tv_contrasena_admin;
 
-    //djfa
+    private Button newb;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
